@@ -8,4 +8,5 @@ It functions alongside an SQL database.
 
 The fully functioning project can be viewed at: https://smart-brain-kevinlc33.herokuapp.com/
 
-![image](https://user-images.githubusercontent.com/24740971/121072925-b881ee00-c786-11eb-9fea-6d30a60142f2.png)
+![Untitled](https://user-images.githubusercontent.com/24740971/121079190-b1f77480-c78e-11eb-8ead-577b60579a1a.png)
+
